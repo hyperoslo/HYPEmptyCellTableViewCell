@@ -1,13 +1,7 @@
 Pod::Spec.new do |s|
 s.name             = "HYPEmptyCellTableViewCell"
 s.version          = "0.1"
-s.summary          = "A short description of HYPEmptyCellTableViewCell."
-s.description      = <<-DESC
-An optional longer description of HYPEmptyCellTableViewCell
-
-* Markdown format.
-* Don't worry about the indent, we strip it!
-DESC
+s.summary          = "Just a class to fake a separator in a table view"
 s.homepage         = "https://github.com/hyperoslo/HYPEmptyCellTableViewCell"
 s.license          = 'MIT'
 s.author           = { "Hyper AS" => "teknologi@hyper.no" }
