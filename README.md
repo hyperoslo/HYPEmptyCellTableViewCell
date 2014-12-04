@@ -7,7 +7,7 @@
 
 ## Usage
 
-`<API>`
+`#import "HYPEmptyCellTableViewCell.h"`
 
 ## Installation
 
